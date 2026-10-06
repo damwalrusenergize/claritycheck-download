@@ -73,3 +73,14 @@ Third-party software/service, all rights belong to the original authors and trad
 <sub>Third-party software/service, all rights belong to the original authors. Unofficial listing for ClarityCheck.</sub>
 
 </div>
+
+
+## More links
+
+- 🌐 **[Visit ClarityCheck on SOFTGIT](https://softgit.pro/p/claritycheck)** — the full listing.
+- 📄 **[ClarityCheck web page](https://damwalrusenergize.github.io/claritycheck-download/)** — standalone info page.
+- 🗂️ [More Reverse Phone Lookup software](https://softgit.pro/category/reverse-phone-lookup)
+- 🏠 [SOFTGIT home](https://softgit.pro) · [All apps](https://softgit.pro/apps)
+- 🔒 [Verify a download (SHA-256)](https://softgit.pro/security)
+
+> Unofficial listing for ClarityCheck. Third-party software; all rights belong to the original authors.
